@@ -1,0 +1,6 @@
+This file will be modified in the branch.
+
+Row to deletion
+Row to change
+
+---
